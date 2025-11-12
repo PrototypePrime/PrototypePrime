@@ -1,24 +1,25 @@
 <div align="center">
-  👋 Mathan Subbiah | Senior Security Engineer
+  # 👋 Mathan Subbiah | Senior Security Engineer
   
   <p>Engineering proactive, scalable security systems to drastically reduce adversary dwell time.</p>
 </div>
 
 ---
 
-### 🛡️ Core Expertise Snapshot:
+### 🛡️ Core Expertise Snapshot: Confident & Analytical
 
 I am a **Senior Security Engineer** specializing in engineering proactive, scalable detection systems. My core mission is to **significantly reduce adversary dwell time** and fortify organizational resilience  by designing and integrating cutting-edge security technologies.
 
 | Focus Area | Key Technologies | Value Proposition |
 | :--- | :--- | :--- |
-| **Detection Engineering** | SIEM (Splunk, Sentinel) | Proactively fortify defenses against emerging threats. |
+| **Detection Engineering** | SIEM (Splunk) | Proactively fortify defenses against emerging threats. |
+| **🔎 Threat Hunting** | Custom Queries, Behavioral Analysis | Uncover stealthy threats that evade automated controls. |
 | **XDR Mastery** | Cortex XDR, MS Defender | Reduce dwell time with precision and behavioral analysis. |
-| **Incident Response** | Playbooks | Lead swift, analytical resolution and process optimization. |
+| **Incident Response** | SOAR Automation, Playbooks | Lead swift, analytical resolution and process optimization. |
 
 ---
 
-### ✨ Project Showcase:
+### ✨ Project Showcase: Proactive Detection Repositories
 
 The core of my work is the creation of custom, high-fidelity detection rules aimed at proactive threat identification.
 
@@ -33,11 +34,11 @@ The core of my work is the creation of custom, high-fidelity detection rules aim
 
 ### 🚀 Future Focus & Professional Connection
 
-My current professional goal is the deeper integration of intelligent automation and AI into the detection engineering lifecycle, moving our defenses from reactive analysis to **predictive threat mitigation**.
+My current professional goal is the deeper integration of intelligent automation and AI into the detection and **Threat Hunting** lifecycle, moving our defenses from reactive analysis to **predictive threat mitigation**.
 
 **🎯 Upcoming Focus:** I am actively developing a **Splunk App for threat intelligence ingestion and visualization**, aiming to package and submit it to **Splunkbase** for broader distribution and community impact.
 
-I am always open to connecting with fellow professionals to discuss innovative approaches to scalable detection, challenges in modern Incident Response, or to explore new frontiers in security automation.
+I am always open to connecting with fellow professionals to discuss innovative approaches to scalable detection, hypothesis-driven Threat Hunting, or to explore new frontiers in security automation.
 
 ---
 
