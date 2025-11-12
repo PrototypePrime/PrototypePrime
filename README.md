@@ -14,7 +14,7 @@ I am a **Senior Security Engineer** specializing in engineering proactive, scala
 | :--- | :--- | :--- |
 | **Detection Engineering** | SIEM (Splunk, Sentinel) | Proactively fortify defenses against emerging threats. |
 | **XDR Mastery** | Cortex XDR, MS Defender | Reduce dwell time with precision and behavioral analysis. |
-| **Incident Response** | SOAR Automation, Playbooks | Lead swift, analytical resolution and process optimization. |
+| **Incident Response** | Playbooks | Lead swift, analytical resolution and process optimization. |
 
 ---
 
