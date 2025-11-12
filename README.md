@@ -6,7 +6,7 @@
 
 ---
 
-### 🛡️ Core Expertise Snapshot: Confident & Analytical
+### 🛡️ Core Expertise Snapshot:
 
 I am a **Senior Security Engineer** specializing in engineering proactive, scalable detection systems. My core mission is to **significantly reduce adversary dwell time** and fortify organizational resilience  by designing and integrating cutting-edge security technologies.
 
