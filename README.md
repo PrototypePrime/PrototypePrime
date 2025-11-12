@@ -19,7 +19,7 @@ I am a **Senior Security Engineer** specializing in engineering proactive, scala
 
 ---
 
-### ✨ Project Showcase: Proactive Detection Repositories
+### ✨ Project Showcase
 
 The core of my work is the creation of custom, high-fidelity detection rules aimed at proactive threat identification.
 
