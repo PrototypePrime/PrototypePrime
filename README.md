@@ -25,10 +25,10 @@ The core of my work is the creation of custom, high-fidelity detection rules aim
 
 | Project Name | Key Technology/Skill Used | Strategic Description | Code Link |
 | :--- | :--- | :--- | :--- |
-| **Splunk SPL Detection** | Splunk SPL/SIEM Optimization | Architecting 50+ high-fidelity correlation rules to eliminate noise and zero in on advanced threats, resulting in a **40% reduction in Mean Time to Detect (MTTD)** for critical incidents. | ➡️ **[[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)]** |
-| **Microsoft Defender KQL Detection** | Defender KQL/Cloud Security | Developing complex KQL hunting queries that **anticipate and flag suspicious M365 activity** (e.g., mail rule changes, OAuth abuse) to halt modern phishing campaigns at the earliest stage. | ➡️ **[[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)]** |
-| **Cortex XDR XQL Detection** | Cortex XDR XQL/EDR | Engineering behavioral detection logic specifically designed to **thwart stealthy fileless attacks** and living-off-the-land tactics that evade standard signatures. | ➡️ **[[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)]** |
-| **Custom AI-Powered GPT** | Prompt Engineering/LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[[View Code]](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
+| **Splunk SPL Detection** | Splunk SPL/SIEM Optimization | Architecting 50+ high-fidelity correlation rules to eliminate noise and zero in on advanced threats, resulting in a **40% reduction in Mean Time to Detect (MTTD)** for critical incidents. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
+| **Microsoft Defender KQL Detection** | Defender KQL/Cloud Security | Developing complex KQL hunting queries that **anticipate and flag suspicious M365 activity** (e.g., mail rule changes, OAuth abuse) to halt modern phishing campaigns at the earliest stage. | ➡️ **[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)** |
+| **Cortex XDR XQL Detection** | Cortex XDR XQL/EDR | Engineering behavioral detection logic specifically designed to **thwart stealthy fileless attacks** and living-off-the-land tactics that evade standard signatures. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
+| **Custom AI-Powered GPT** | Prompt Engineering/LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
 
 ---
 
