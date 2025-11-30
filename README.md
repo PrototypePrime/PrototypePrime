@@ -21,11 +21,12 @@ I am a **Senior Security Engineer** specializing in engineering proactive, scala
 
 ### ✨ Project Showcase
 
-The core of my work is the creation of custom, high-fidelity detection rules aimed at proactive threat identification.
+My portfolio demonstrates expertise across the full detection engineering lifecycle—from building custom, high-fidelity detection rules to engineering specialized tools that enable rapid testing, validation, and training.
 
 | Project Name | Key Technology/Skill Used | Strategic Description | Code Link |
 | :--- | :--- | :--- | :--- |
 | **Splunk SPL Detection** | Splunk SPL/SIEM Optimization | Architecting 50+ high-fidelity correlation rules to eliminate noise and zero in on advanced threats, resulting in a **40% reduction in Mean Time to Detect (MTTD)** for critical incidents. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
+| **Splunk Log Forge** | Splunk Development/Testing | Engineering a template-based log generator with **80+ pre-built sourcetype templates** (Palo Alto, Cisco, AWS, etc.) for instant production-quality log generation—enabling rapid detection testing, TA validation, and security training without exposing sensitive production data. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk-Log-Forge)** |
 | **Microsoft Defender KQL Detection** | Defender KQL/Cloud Security | Developing complex KQL hunting queries that **anticipate and flag suspicious M365 activity** (e.g., mail rule changes, OAuth abuse) to halt modern phishing campaigns at the earliest stage. | ➡️ **[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)** |
 | **Cortex XDR XQL Detection** | Cortex XDR XQL/EDR | Engineering behavioral detection logic specifically designed to **thwart stealthy fileless attacks** and living-off-the-land tactics that evade standard signatures. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
 | **Custom AI-Powered GPT** | Prompt Engineering/LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
@@ -35,6 +36,8 @@ The core of my work is the creation of custom, high-fidelity detection rules aim
 ### 🚀 Future Focus & Professional Connection
 
 My current professional goal is the deeper integration of intelligent automation and AI into the detection and **Threat Hunting** lifecycle, moving our defenses from reactive analysis to **predictive threat mitigation**.
+
+**🎯 Recent Achievement:** Successfully built and deployed **Splunk Log Forge**—a production-quality log generator enabling detection testing without sensitive data exposure.
 
 **🎯 Upcoming Focus:** I am actively developing a **Splunk App for threat intelligence ingestion and visualization**, aiming to package and submit it to **Splunkbase** for broader distribution and community impact.
 
