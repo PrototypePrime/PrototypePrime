@@ -39,7 +39,7 @@ My current professional goal is the deeper integration of intelligent automation
 
 **🎯 Recent Achievement:** Successfully built and deployed **Event-Horizon**—a production-quality security log generator that supports 80+ platforms and enables realistic attack simulation for comprehensive detection testing.
 
-**🎯 Upcoming Focus:** I am actively developing a **Splunk App for threat intelligence ingestion and visualization**, aiming to package and submit it to **Splunkbase** for broader distribution and community impact.
+**🎯 Upcoming Focus:** I am actively developing a **SOC-focused Splunk App for Security Operations Centers**, designed to enhance threat intelligence ingestion, visualization, and operational workflows. I aim to package and submit it to **Splunkbase** for broader distribution and community impact.
 
 I am always open to connecting with fellow professionals to discuss innovative approaches to scalable detection, hypothesis-driven Threat Hunting, security tool development, or to explore new frontiers in security automation and testing methodologies.
 
