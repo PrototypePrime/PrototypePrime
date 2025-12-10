@@ -25,11 +25,12 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 
 | Project Name | Key Technology/Skill Used | Strategic Description | Code Link |
 | :--- | :--- | :--- | :--- |
-| **Splunk SPL Detection** | Splunk SPL/SIEM Optimization | Architecting 50+ high-fidelity correlation rules to eliminate noise and zero in on advanced threats, resulting in a **40% reduction in Mean Time to Detect (MTTD)** for critical incidents. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
-| **Event-Horizon** | Security Engineering/Testing | Built a production-quality security log generator supporting **80+ platforms** (Firewalls, Cloud, Endpoints, Web/Proxy) with template-first design and **AI-powered attack simulation**—enabling realistic kill-chain testing, detection validation, and SOC training at scale (1M+ logs in minutes). | ➡️ **[View Code](https://github.com/PrototypePrime/Event-Horizon)** |
-| **Microsoft Defender KQL Detection** | Defender KQL/Cloud Security | Developing complex KQL hunting queries that **anticipate and flag suspicious M365 activity** (e.g., mail rule changes, OAuth abuse) to halt modern phishing campaigns at the earliest stage. | ➡️ **[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)** |
-| **Cortex XDR XQL Detection** | Cortex XDR XQL/EDR | Engineering behavioral detection logic specifically designed to **thwart stealthy fileless attacks** and living-off-the-land tactics that evade standard signatures. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
-| **Custom AI-Powered GPT** | Prompt Engineering/LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
+| **Event-Horizon** | Security Engineering/Testing | Built a **production-quality security log generator** supporting **80+ platforms** (Firewalls, Cloud, Endpoints). Generates realistic, timestamped logs for detection validation, SOC training, and dashboard testing. Features AI-powered attack simulation and "Golden Master" templates. | ➡️ **[View Code](https://github.com/PrototypePrime/Event-Horizon)** |
+| **ProInfo Intelligence Suite** | OSINT / React / Visualization | A professional-grade **OSINT dashboard** for streamlined IP reconnaissance and threat assessment. Features a "Cyber-Heatmap" for visualizing threat density, force-directed graph topology, and high-fidelity CSV/PDF reporting. | ➡️ **[View Code](https://github.com/PrototypePrime/ProInfo)** |
+| **Splunk SPL Detection** | Splunk SPL / SIEM | A **production-ready detection library** containing 50+ battle-tested correlation searches. Serves as both a deployable rule set and an engineering toolkit with templates for building custom logic. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
+| **Microsoft Defender KQL Detection** | Defender KQL / Cloud Security | A **comprehensive KQL library** for M365 and Azure environments. Features advanced hunting queries for identity attacks (impossible travel, OAuth abuse) and endpoint threats, optimized for cloud-scale telemetry. | ➡️ **[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)** |
+| **Cortex XDR XQL Detection** | Cortex XDR XQL / EDR | A **specialized XQL detection library** optimized for Cortex XDR's BIOC framework. Focuses on behavioral detection logic to thwart stealthy fileless attacks and living-off-the-land tactics. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
+| **Custom AI-Powered GPT** | Prompt Engineering / LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
 
 ---
 
@@ -53,4 +54,4 @@ I am always open to connecting with fellow professionals to discuss innovative a
   </a>
   <a href="mailto:mathan1702@gmail.com">
     <img src="https://img.shields.io/badge/Email-mathan1702@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
-</p>
+  </p>
