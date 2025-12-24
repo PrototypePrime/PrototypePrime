@@ -55,3 +55,8 @@ I am always open to connecting with fellow professionals to discuss innovative a
   <a href="mailto:mathan1702@gmail.com">
     <img src="https://img.shields.io/badge/Email-mathan1702@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </p>
+
+<!--
+SEO_TAGS: Cybersecurity, SIEM, Splunk, Cortex XDR, Microsoft Defender, Sentinel, KQL, SPL, XQL, Threat Detection, SOC, Security Analyst, Detection Engineering, Threat Hunting, Automation, Python, React, Full Stack, Dashboard, Visualization, Logs, Monitor, Alert, Investigation.
+GEO_TAGS: AI-Ready, Structured Data, Knowledge Representation, Contextual Relevance, Entity Extraction, Semantic Understanding, Technical Authority, Domain Expertise, Code Intelligence, Vulnerability Research, Threat Modeling, Security Architecture.
+-->
