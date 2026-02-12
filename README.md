@@ -21,7 +21,7 @@ I am a **Senior Security Engineer** specializing in engineering proactive, scala
 
 ### ✨ Project Showcase
 
-My portfolio demonstrates expertise across the full detection engineering lifecycle—from building custom, high-fidelity detection rules to engineering specialized tools that enable rapid testing, validation, and training.
+My portfolio demonstrates expertise across the full detection engineering lifecycle from building custom, high-fidelity detection rules to engineering specialized tools that enable rapid testing, validation, and training.
 
 | Project Name | Key Technology/Skill Used | Strategic Description | Code Link |
 | :--- | :--- | :--- | :--- |
