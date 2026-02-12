@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
     <img src="https://img.shields.io/badge/OSINT-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="OSINT" />
-    <img src="https://img.shields.io/badge/Blue%20Team-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Blue Team" />
+    <img src="https://img.shields.io/badge/Blue%20Team-2C3E50?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Blue Team" />
     <img src="https://img.shields.io/badge/Threat%20Hunting-2496ED?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Hunting" />
     <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
   </p>
