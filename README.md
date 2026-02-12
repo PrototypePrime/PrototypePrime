@@ -6,10 +6,10 @@
   <!-- Tech Stack Badges -->
   <p>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Cortex_XDR-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Cortex XDR" />
+    <img src="https://img.shields.io/badge/OSINT-4B8BBE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="OSINT" />
+    <img src="https://img.shields.io/badge/Blue%20Team-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Blue Team" />
+    <img src="https://img.shields.io/badge/Threat%20Hunting-2496ED?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Hunting" />
+    <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
   </p>
 </div>
 
@@ -42,7 +42,7 @@ I am a **Senior Security Engineer** specializing in engineering proactive, scala
 | **Detection Engineering** | SIEM (Splunk), XDR (Cortex XDR, MDE) | Proactively fortify defenses against emerging threats. |
 | **Security Tooling & Development** | Python, AI Integration, Template Engines | Build production-grade tools for detection testing and SOC training. |
 | **🔎 Threat Hunting** | Custom Queries, Behavioral Analysis | Uncover stealthy threats that evade automated controls. |
-| **Incident Response** | SOAR Automation, Playbooks | Lead swift, analytical resolution and process optimization. |
+
 
 ---
 
