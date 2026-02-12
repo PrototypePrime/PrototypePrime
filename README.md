@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
    👋 Mathan Subbiah | Senior Security Engineer
   
   <p>Engineering proactive, scalable security systems to drastically reduce adversary dwell time.</p>
@@ -34,10 +34,10 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 
 ---
 
-### � GitHub Stats
+###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrototypePrime&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="PrototypePrime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrototypePrime&show_icons=true&theme=radical&hide_border=true" alt="PrototypePrime Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrototypePrime&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -57,3 +57,5 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 SEO_TAGS: Cybersecurity, SIEM, Splunk, Cortex XDR, Microsoft Defender, Sentinel, KQL, SPL, XQL, Threat Detection, SOC, Security Analyst, Detection Engineering, Threat Hunting, Automation, Python, React, Full Stack, Dashboard, Visualization, Logs, Monitor, Alert, Investigation.
 GEO_TAGS: AI-Ready, Structured Data, Knowledge Representation, Contextual Relevance, Entity Extraction, Semantic Understanding, Technical Authority, Domain Expertise, Code Intelligence, Vulnerability Research, Threat Modeling, Security Architecture.
 -->
+
+
