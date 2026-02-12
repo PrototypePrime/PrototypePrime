@@ -2,11 +2,38 @@
    👋 Mathan Subbiah | Senior Security Engineer
   
   <p>Engineering proactive, scalable security systems to drastically reduce adversary dwell time.</p>
+
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Cortex_XDR-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Cortex XDR" />
+  </p>
 </div>
 
 ---
 
-### 🛡️ Core Expertise Snapshot: Confident & Analytical
+### 🛡️ Engineering Philosophy
+
+> **"Security that sleeps so you can too."**
+
+I believe in **Proactive Defense** and **High-Fidelity Detection**. My approach focuses on **Adversary Emulation** and **Defense Optimization**. By rigorously testing security controls against realistic attack scenarios and minimizing false positives, I build systems that catch threats early and ensure SOC teams focus on true signals, not noise.
+
+---
+
+### 🔭 Current Focus
+
+- **Advanced Attack Simulation**: Enhancing `Event-Horizon` to generate realistic, multi-vector attack telemetry for validation.
+- **Detection Engineering**: Expanding coverage in `Splunk SPL` and `Microsoft KQL` detection libraries.
+- **Splunk App Development**: Building a custom SOC operations app for **Splunkbase** deployment.
+- **Workflow Automation**: Building specialized tools to streamline SOC operations and reduce analyst burnout.
+
+---
+
+### 🚀 Core Expertise
+
 
 I am a **Senior Security Engineer** specializing in engineering proactive, scalable detection systems and building security tools that accelerate testing, validation, and training workflows. My core mission is to **significantly reduce adversary dwell time** and fortify organizational resilience by designing and integrating cutting-edge security technologies.
 
@@ -32,16 +59,7 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 | **Cortex XDR XQL Detection** | Cortex XDR XQL / EDR | A **specialized XQL detection library** optimized for Cortex XDR's BIOC framework. Focuses on behavioral detection logic to thwart stealthy fileless attacks and living-off-the-land tactics. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
 | **Custom AI-Powered GPT** | Prompt Engineering / LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
 
----
 
-###  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrototypePrime&show_icons=true&theme=radical&hide_border=true" alt="PrototypePrime Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrototypePrime&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 📬 Let's Connect!
 
@@ -57,5 +75,6 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 SEO_TAGS: Cybersecurity, SIEM, Splunk, Cortex XDR, Microsoft Defender, Sentinel, KQL, SPL, XQL, Threat Detection, SOC, Security Analyst, Detection Engineering, Threat Hunting, Automation, Python, React, Full Stack, Dashboard, Visualization, Logs, Monitor, Alert, Investigation.
 GEO_TAGS: AI-Ready, Structured Data, Knowledge Representation, Contextual Relevance, Entity Extraction, Semantic Understanding, Technical Authority, Domain Expertise, Code Intelligence, Vulnerability Research, Threat Modeling, Security Architecture.
 -->
+
 
 
