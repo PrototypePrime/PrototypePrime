@@ -27,22 +27,19 @@ My portfolio demonstrates expertise across the full detection engineering lifecy
 | :--- | :--- | :--- | :--- |
 | **Event-Horizon** | Security Engineering/Testing | Built a **production-quality security log generator** supporting **80+ platforms** (Firewalls, Cloud, Endpoints). Generates realistic, timestamped logs for detection validation, SOC training, and dashboard testing. Features AI-powered attack simulation and "Golden Master" templates. | ➡️ **[View Code](https://github.com/PrototypePrime/Event_Horizon)** |
 | **ProInfo Intelligence Suite** | OSINT / React / Visualization | A professional-grade **OSINT dashboard** for streamlined IP reconnaissance and threat assessment. Features a "Cyber-Heatmap" for visualizing threat density, force-directed graph topology, and high-fidelity CSV/PDF reporting. | ➡️ **[View Code](https://github.com/PrototypePrime/ProInfo)** |
-| **Splunk SPL Detection** | Splunk SPL / SIEM | A **production-ready detection library** containing 50+ battle-tested correlation searches. Serves as both a deployable rule set and an engineering toolkit with templates for building custom logic. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
+| **Splunk SPL Detection** | Splunk SPL / SIEM | A **comprehensive detection framework** featuring 50+ production-ready rules, a **Techniques Library** for SPL optimization, and **Universal Detection Archetypes**. Acts as both a deployable rule set and an engineering cookbook. | ➡️ **[View Code](https://github.com/PrototypePrime/Splunk_SPL_Detection)** |
 | **Microsoft Defender KQL Detection** | Defender KQL / Cloud Security | A **comprehensive KQL library** for M365 and Azure environments. Features advanced hunting queries for identity attacks (impossible travel, OAuth abuse) and endpoint threats, optimized for cloud-scale telemetry. | ➡️ **[View Code](https://github.com/PrototypePrime/Microsoft_Defender_KQL_Detection)** |
 | **Cortex XDR XQL Detection** | Cortex XDR XQL / EDR | A **specialized XQL detection library** optimized for Cortex XDR's BIOC framework. Focuses on behavioral detection logic to thwart stealthy fileless attacks and living-off-the-land tactics. | ➡️ **[View Code](https://github.com/PrototypePrime/Cortex_XDR_XQL_Detection)** |
 | **Custom AI-Powered GPT** | Prompt Engineering / LLMs | A specialized, knowledge-based GPT designed to **democratize complex security expertise** for the team, significantly streamlining analyst workflows and policy adherence checks. | ➡️ **[View Code](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** |
 
 ---
 
-### 🚀 Future Focus & Professional Connection
+### � GitHub Stats
 
-My current professional goal is the deeper integration of intelligent automation and AI into the detection and **Threat Hunting** lifecycle, moving our defenses from reactive analysis to **predictive threat mitigation**.
-
-**🎯 Recent Achievement:** Successfully built and deployed **Event-Horizon**—a production-quality security log generator that supports 80+ platforms and enables realistic attack simulation for comprehensive detection testing.
-
-**🎯 Upcoming Focus:** I am actively developing a **SOC-focused Splunk App for Security Operations Centers**, designed to enhance threat intelligence ingestion, visualization, and operational workflows. I aim to package and submit it to **Splunkbase** for broader distribution and community impact.
-
-I am always open to connecting with fellow professionals to discuss innovative approaches to scalable detection, hypothesis-driven Threat Hunting, security tool development, or to explore new frontiers in security automation and testing methodologies.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrototypePrime&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="PrototypePrime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrototypePrime&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
