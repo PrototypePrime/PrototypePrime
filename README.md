@@ -28,7 +28,7 @@
 
 ## 🛡️ Engineering Philosophy
 
-> *"Security that sleeps so you can too."*
+> *"The best threat hunting is done before the threat knows it's being hunted."*
 
 I believe in **Proactive Defense** and **High-Fidelity Detection**. My approach focuses on **Adversary Emulation** and **Defense Optimization** — rigorously testing security controls against realistic attack scenarios, minimizing false positives, and ensuring SOC teams focus on true signals, not noise.
 
