@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <h1>Mathan Subbiah</h1>
 <h3>🔐 Senior Security Engineer | Detection Specialist | Security Tooling</h3>
@@ -64,11 +64,12 @@ I believe in **Proactive Defense** and **High-Fidelity Detection**. My approach 
 
 | Project | Stack | Description |
 |:--------|:------|:------------|
-| 🌐 **[SCOUT](https://github.com/PrototypePrime/SCOUT-Security_and_CVE_Outbreak_Universal_Tracker)** | Python | **Security & CVE Outbreak Universal Tracker** — Real-time CVE monitoring, outbreak detection, and prioritization engine for enterprise SOC teams. Tracks zero-days and active exploitation across global threat feeds. |
-| 🔭 **[Event-Horizon](https://github.com/PrototypePrime/Event_Horizon)** | Python / AI | **Production-quality security log generator** supporting **80+ platforms** (Firewalls, Cloud, Endpoints, EDR). Generates realistic, timestamped attack telemetry for detection validation, SOC training, and dashboard testing. Features AI-powered attack simulation and "Golden Master" templates. |
-| 🖥️ **[Hyper-SOC](https://github.com/PrototypePrime/Hyper-SOC)** | Shell | **One-command SOC Analyst workstation builder** for Windows & Linux. Automates the full setup of a comprehensive SOC analyst environment — tools, integrations, and configurations — from a single script. |
+| 🌐 **[SCOUT](https://github.com/PrototypePrime/SCOUT-Security_and_CVE_Outbreak_Universal_Tracker)** | Python / React / PostgreSQL | **Security & CVE Outbreak Universal Tracker** — Real-time CVE monitoring, outbreak detection, and prioritization engine for enterprise SOC teams. Tracks zero-days and active exploitation across global threat feeds. |
+| 🔭 **[Event-Horizon](https://github.com/PrototypePrime/Event_Horizon)** | Python / React / AI | **Production-quality security log generator** supporting **80+ platforms** (Firewalls, Cloud, Endpoints, EDR). Generates realistic, timestamped attack telemetry for detection validation, SOC training, and dashboard testing. Features AI-powered attack simulation and "Golden Master" templates. |
+| 🖥️ **[Hyper-SOC](https://github.com/PrototypePrime/Hyper-SOC)** | Bash / PowerShell | **One-command SOC Analyst workstation builder** for Windows & Linux. Automates the full setup of a comprehensive SOC analyst environment — tools, integrations, and configurations — from a single script. |
 | 🕵️ **[ProInfo Intelligence Suite](https://github.com/PrototypePrime/ProInfo)** | TypeScript / React | **Professional-grade OSINT dashboard** for streamlined IP reconnaissance and threat assessment. Features a "Cyber-Heatmap" for threat density, force-directed graph topology, and high-fidelity CSV/PDF reporting. |
 | 🤖 **[Custom AI-Powered GPT](https://github.com/PrototypePrime/Custom_AI-Powered_GPT)** | LLMs / Prompt Engineering | A specialized, knowledge-based GPT designed to **democratize complex security expertise** — streamlining analyst workflows, policy adherence checks, and detection logic creation. |
+| 🔎 **[BrowserRecon](https://github.com/PrototypePrime/Browser_Recon)** | Python / React / AI | **Portable Digital Forensics Platform** — Specialized triage utility for local browser history extraction and analysis. Features AI-powered case synthesis via Ollama, interactive behavioral heatmaps, and a 100% offline zero-trust architecture. |
 
 ### 📡 Detection Libraries *(Actively & Continuously Updated)*
 
@@ -104,6 +105,6 @@ Platforms Supported:  Windows · Linux · macOS · Azure · M365 · Palo Alto ·
 ---
 
 <!--
-SEO_TAGS: Cybersecurity, SIEM, Splunk, Cortex XDR, Microsoft Defender, Sentinel, KQL, SPL, XQL, Threat Detection, SOC, Security Analyst, Detection Engineering, Threat Hunting, Automation, Python, React, TypeScript, Dashboard, Visualization, Logs, Monitor, Alert, Investigation, MITRE ATT&CK, CVE, IOC, OSINT, Blue Team, Incident Response, SCOUT, Event-Horizon, Hyper-SOC, ProInfo.
+SEO_TAGS: Cybersecurity, SIEM, Splunk, Cortex XDR, Microsoft Defender, Sentinel, KQL, SPL, XQL, Threat Detection, SOC, Security Analyst, Detection Engineering, Threat Hunting, Automation, Python, React, TypeScript, Dashboard, Visualization, Logs, Monitor, Alert, Investigation, MITRE ATT&CK, CVE, IOC, OSINT, Blue Team, Incident Response, SCOUT, Event-Horizon, Hyper-SOC, ProInfo, BrowserRecon.
 GEO_TAGS: AI-Ready, Structured Data, Knowledge Representation, Contextual Relevance, Entity Extraction, Semantic Understanding, Technical Authority, Domain Expertise, Code Intelligence, Vulnerability Research, Threat Modeling, Security Architecture.
 -->
